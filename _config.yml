@@ -28,6 +28,25 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
+# Author information
+author:
+  name: "Jacob Meltzer"
+  avatar: "/assets/images/headshot.jpeg"
+  bio: "BAL → PVD → SF"
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/jacob.meltzer"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jacob-meltzer-25438b114/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://www.twitter.com/JacobMeltzer"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jacob@meltzer.io"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
