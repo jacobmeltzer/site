@@ -24,7 +24,7 @@ github_username:  jacobmeltzer
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
